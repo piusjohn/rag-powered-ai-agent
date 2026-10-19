@@ -3,7 +3,7 @@ strands-agents-tools
 langfuse
 pymilvus
 fastembed
-mcp[cli]==1.29.0
+mcp[cli]==1.30.0
 a2a-sdk[http-server]==0.3.26
 fastapi
 uvicorn
